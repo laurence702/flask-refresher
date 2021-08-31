@@ -9,7 +9,6 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
-Flask-PyMongo = "*"
 
 [dev-packages]
 
